@@ -117,8 +117,6 @@ int main()
 		}
 	cout<<"*/\n";
 	removeComments();
-	for (auto i: comments)
-		cout<<i<<"\n";
 	for (int i=0; i<code.size(); i++)
 		{
 		code[i]=gmmMagic(code[i]);
