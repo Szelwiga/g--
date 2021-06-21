@@ -1,6 +1,11 @@
 # g--
+
 c++ without brackets and semicolons
+
 Example code:
+
+Use raw to view:
+
 #include <bits/stdc++.h>
 using namespace std
 int square(int a)
