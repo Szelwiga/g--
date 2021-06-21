@@ -1,0 +1,2 @@
+./G-- < $1 > submit.cpp
+g++ submit.cpp
